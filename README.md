@@ -19,7 +19,7 @@ Second use is processing wave files:
   - Sampling wave file
   - Concatenation of wave files
 
-Details and images of each feature can be found in [user guide][guide] on Serbian language on Github.
+Details and images of each feature can be found in [user guide][guide] in Serbian language on Github.
 
 ## Application
 
