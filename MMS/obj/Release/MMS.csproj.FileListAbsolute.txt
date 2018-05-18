@@ -1,0 +1,17 @@
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MMS.exe.config
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\Interop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\AxInterop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.csproj.ResolveComReference.cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.View.FormView.resources
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.Properties.Resources.resources
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.csproj.GenerateResource.Cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MMS.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MMS.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MetroFramework.Design.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MetroFramework.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\MetroFramework.Fonts.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\Interop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Release\AxInterop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Release\MMS.csprojResolveAssemblyReference.cache

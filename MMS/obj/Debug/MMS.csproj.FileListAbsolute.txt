@@ -1,0 +1,17 @@
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MMS.exe.config
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MMS.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MMS.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MetroFramework.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.View.FormView.resources
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.csproj.GenerateResource.Cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.csprojResolveAssemblyReference.cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\Interop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\obj\Debug\MMS.csproj.ResolveComReference.cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\Interop.WMPLib.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\MMS\MMS\bin\Debug\AxInterop.WMPLib.dll
